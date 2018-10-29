@@ -14,8 +14,14 @@ namespace MurraysIrishBar.Repository
             //    .UseInMemoryDatabase("MurraysIrishBar")
             //    .Options;
 
+            //var options = new DbContextOptionsBuilder<MenuDbContext>()
+            //  .UseSqlite("Data Source=Database.db")
+            //  .Options;
+
+            // https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/new-db?tabs=visual-studio
+
             var options = new DbContextOptionsBuilder<MenuDbContext>()
-               .UseSqlServer("Server =.\\SQLEXPRESS; Database = MurraysIrishBar4; Trusted_Connection = True; MultipleActiveResultSets = true")
+               .UseSqlServer("Server =.\\SQLEXPRESS; Database = MurraysIrishBar6; Trusted_Connection = True; MultipleActiveResultSets = true")
                .Options;
 
             return new MenuDbContext(options);

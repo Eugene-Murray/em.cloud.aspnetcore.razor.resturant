@@ -1617,6 +1617,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "MurraysIrishBar.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/MurraysIrishBar.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MurraysIrishBar.Services.dll": {}
+        }
       }
     }
   },
@@ -5712,6 +5722,11 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "MurraysIrishBar.Services/1.0.0": {
+      "type": "project",
+      "path": "../MurraysIrishBar.Services/MurraysIrishBar.Services.csproj",
+      "msbuildProject": "../MurraysIrishBar.Services/MurraysIrishBar.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5719,7 +5734,8 @@
       "MSTest.TestAdapter >= 1.3.2",
       "MSTest.TestFramework >= 1.3.2",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "MurraysIrishBar.Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5751,7 +5767,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\code\\my_code\\2019\\packt\\em.cloud.aspnetcore.razor.resturant\\MurraysIrishBar.Services\\MurraysIrishBar.Services.csproj": {
+              "projectPath": "D:\\code\\my_code\\2019\\packt\\em.cloud.aspnetcore.razor.resturant\\MurraysIrishBar.Services\\MurraysIrishBar.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

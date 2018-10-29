@@ -11,3 +11,4 @@ D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.T
 D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Tests\obj\Debug\netcoreapp2.1\MurraysIrishBar.Tests.AssemblyInfo.cs
 D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Tests\obj\Debug\netcoreapp2.1\MurraysIrishBar.Tests.dll
 D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Tests\obj\Debug\netcoreapp2.1\MurraysIrishBar.Tests.pdb
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Tests\obj\Debug\netcoreapp2.1\MurraysIrishBar.Tests.csprojAssemblyReference.cache
