@@ -1,0 +1,11 @@
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Services\bin\Debug\netcoreapp2.1\MurraysIrishBar.Services.deps.json
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Services\bin\Debug\netcoreapp2.1\MurraysIrishBar.Services.dll
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Services\bin\Debug\netcoreapp2.1\MurraysIrishBar.Services.pdb
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Services\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Services\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.Cookies.xml
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Services\obj\Debug\netcoreapp2.1\MurraysIrishBar.Services.csproj.CoreCompileInputs.cache
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Services\obj\Debug\netcoreapp2.1\MurraysIrishBar.Services.AssemblyInfoInputs.cache
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Services\obj\Debug\netcoreapp2.1\MurraysIrishBar.Services.AssemblyInfo.cs
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Services\obj\Debug\netcoreapp2.1\MurraysIrishBar.Services.csproj.CopyComplete
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Services\obj\Debug\netcoreapp2.1\MurraysIrishBar.Services.dll
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Services\obj\Debug\netcoreapp2.1\MurraysIrishBar.Services.pdb

@@ -1,0 +1,13 @@
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Tests\bin\Debug\netcoreapp2.1\MurraysIrishBar.Tests.deps.json
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Tests\bin\Debug\netcoreapp2.1\MurraysIrishBar.Tests.runtimeconfig.json
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Tests\bin\Debug\netcoreapp2.1\MurraysIrishBar.Tests.runtimeconfig.dev.json
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Tests\bin\Debug\netcoreapp2.1\MurraysIrishBar.Tests.dll
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Tests\bin\Debug\netcoreapp2.1\MurraysIrishBar.Tests.pdb
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Tests\obj\Debug\netcoreapp2.1\MurraysIrishBar.Tests.csproj.CoreCompileInputs.cache
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Tests\obj\Debug\netcoreapp2.1\MurraysIrishBar.Tests.AssemblyInfoInputs.cache
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Tests\obj\Debug\netcoreapp2.1\MurraysIrishBar.Tests.AssemblyInfo.cs
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Tests\obj\Debug\netcoreapp2.1\MurraysIrishBar.Tests.dll
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Tests\obj\Debug\netcoreapp2.1\MurraysIrishBar.Tests.pdb

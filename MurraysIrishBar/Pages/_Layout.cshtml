@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Murrays Irish Bar</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+
+</head>
+<body>
+    <header class="container">
+        <div class="row">
+
+            <div class="mx-auto" >
+                <img src="~/images/logo.png" class="logo-image" />
+            </div>
+
+           
+        </div>
+        <div class="row">
+
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="width: 100%">
+                
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarText">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="/">Menu <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/About">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Contact">Contact</a>
+                        </li>
+
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                        <li class="nav-item">
+                            <a asp-page="/Admin/AddEditMenu" class="nav-link">Add Menu</a>
+                        </li>
+                        }
+
+                        </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            @if (!User.Identity.IsAuthenticated)
+                            {
+                                <a href="/Admin/AddEditMenu" class="nav-link">Login</a>
+                            }
+                            else
+                            {
+                                <form method="post" asp-page="/Account/Login" asp-page-handler="Logout">
+                                    <div class="input-group">
+                                        <span class="nav-link active">@User.Identity.Name</span>
+                                        <button type="submit" class="btn btn-success">Logout</button>
+                                    </div>
+                                </form>
+                            }
+                        </li>
+                    </ul>
+
+                </div>
+            </nav>
+
+        </div>
+        <div class="row">
+            @if (IsSectionDefined("Title"))
+            {
+                @RenderSection("Title", required: false)
+            }
+            else
+            {
+            <div class="alert alert-success title" role="alert">
+                <h2> @ViewData["Title"] </h2>
+            </div>
+            }
+            </div>
+</header>
+    <div class="container">
+        @RenderBody()
+
+    </div>
+    <footer>
+        <div class="text-center">
+            <hr />
+            <span class="text-muted">Murrays Bar @DateTime.Now.Year </span>
+        </div>
+    </footer>
+</body>
+</html>

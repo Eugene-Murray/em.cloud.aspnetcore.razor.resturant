@@ -1,0 +1,14 @@
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Repository\bin\Debug\netcoreapp2.1\MurraysIrishBar.Repository.deps.json
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Repository\bin\Debug\netcoreapp2.1\MurraysIrishBar.Repository.runtimeconfig.json
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Repository\bin\Debug\netcoreapp2.1\MurraysIrishBar.Repository.runtimeconfig.dev.json
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Repository\bin\Debug\netcoreapp2.1\MurraysIrishBar.Repository.dll
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Repository\bin\Debug\netcoreapp2.1\MurraysIrishBar.Repository.pdb
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Repository\bin\Debug\netcoreapp2.1\MurraysIrishBar.Domain.dll
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Repository\bin\Debug\netcoreapp2.1\MurraysIrishBar.Domain.pdb
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Repository\obj\Debug\netcoreapp2.1\MurraysIrishBar.Repository.csprojAssemblyReference.cache
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Repository\obj\Debug\netcoreapp2.1\MurraysIrishBar.Repository.csproj.CoreCompileInputs.cache
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Repository\obj\Debug\netcoreapp2.1\MurraysIrishBar.Repository.AssemblyInfoInputs.cache
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Repository\obj\Debug\netcoreapp2.1\MurraysIrishBar.Repository.AssemblyInfo.cs
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Repository\obj\Debug\netcoreapp2.1\MurraysIrishBar.Repository.csproj.CopyComplete
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Repository\obj\Debug\netcoreapp2.1\MurraysIrishBar.Repository.dll
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Repository\obj\Debug\netcoreapp2.1\MurraysIrishBar.Repository.pdb

@@ -1,0 +1,45 @@
+﻿@page "{id}"
+@{ 
+    var id = long.Parse((string)RouteData.Values["id"]);
+    var menu = await Repository.FindAsync(id);
+
+    ViewData["Title"] = menu.Name;
+}
+
+<div class="row Menu">
+
+    <div class="col-md-8">
+
+        <div class="col-md-12">
+
+            <span class="description">
+                @menu.Description
+            </span>
+
+            <hr />
+        </div>
+
+        <div class="ingredients col-md-4">
+            <h4>Ingredients</h4>
+            <ul>
+                @foreach (var ingredient in menu.IngredientsList)
+                {
+                    <li>@ingredient</li>
+                }
+            </ul>
+        </div>
+
+        <div class="directions col-md-8">
+            <h4>Price</h4>
+            <ol>
+               £ @menu.Price
+            </ol>
+        </div>
+
+    </div>
+
+    <div class="col-md-4 text-right">
+        <img class="img img-thumbnail" src="@menu.GetInlineImageSrc()" />
+    </div>
+
+</div>

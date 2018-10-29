@@ -1,0 +1,10 @@
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Domain\bin\Debug\netcoreapp2.1\MurraysIrishBar.Domain.deps.json
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Domain\bin\Debug\netcoreapp2.1\MurraysIrishBar.Domain.runtimeconfig.json
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Domain\bin\Debug\netcoreapp2.1\MurraysIrishBar.Domain.runtimeconfig.dev.json
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Domain\bin\Debug\netcoreapp2.1\MurraysIrishBar.Domain.dll
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Domain\bin\Debug\netcoreapp2.1\MurraysIrishBar.Domain.pdb
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Domain\obj\Debug\netcoreapp2.1\MurraysIrishBar.Domain.csproj.CoreCompileInputs.cache
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Domain\obj\Debug\netcoreapp2.1\MurraysIrishBar.Domain.AssemblyInfoInputs.cache
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Domain\obj\Debug\netcoreapp2.1\MurraysIrishBar.Domain.AssemblyInfo.cs
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Domain\obj\Debug\netcoreapp2.1\MurraysIrishBar.Domain.dll
+D:\code\my_code\2019\packt\em.cloud.aspnetcore.razor.resturant\MurraysIrishBar.Domain\obj\Debug\netcoreapp2.1\MurraysIrishBar.Domain.pdb

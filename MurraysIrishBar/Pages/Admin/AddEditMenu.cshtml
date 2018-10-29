@@ -1,0 +1,60 @@
+﻿@page "{id?}"
+@model AddEditMenuModel
+@{
+    ViewData["Title"] = Model.IsNewMenu ? "New Menu" : "Edit Menu";
+}
+
+@if (!ModelState.IsValid)
+{
+    <div class="col-md-offset-2 col-md-10">
+        <h3 class="text-danger">Validation Errors</h3>
+        <div asp-validation-summary="All"></div>
+        <hr />
+    </div>
+}
+
+<form method="post" class="form-horizontal" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Menu.Name" class="col-md-2 control-label"></label>
+        <div class="col-md-10">
+            <input asp-for="Menu.Name" class="form-control" />
+            <span asp-validation-for="Menu.Name"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="Menu.Description" class="col-md-2 control-label"></label>
+        <div class="col-md-10">
+            <textarea rows="3" asp-for="Menu.Description" class="form-control"></textarea>
+            <span asp-validation-for="Menu.Description"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="Menu.Ingredients" class="col-md-2 control-label"></label>
+        <div class="col-md-10">
+            <textarea rows="5" asp-for="Menu.Ingredients" class="form-control"></textarea>
+            <span asp-validation-for="Menu.Ingredients"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="Menu.Price" class="col-md-2 control-label"></label>
+        <div class="col-md-2">
+            <input type="number" asp-for="Menu.Price" class="form-control" />
+            <span asp-validation-for="Menu.Price"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="Image" class="col-md-2 control-label"></label>
+        <div class="col-md-10">
+            <input type="file" asp-for="Image" />
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <button type="submit" class="btn btn btn-primary">Save</button>
+            @if (!Model.IsNewMenu)
+            {
+                <button type="submit" asp-page-handler="Delete" class="btn btn btn-warning">Delete</button>
+            }
+        </div>
+    </div>
+</form>
